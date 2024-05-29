@@ -1,0 +1,62 @@
+[
+  {
+    "fistname": "John",
+    "lastname": "Tegaye",
+    "email": "JohnTegaye@gmail.com"
+  },
+  {
+    "firstname": "Yard",
+    "lastname": "Teshome",
+    "email": "YardTeshome@gmail.com"
+  },
+  {
+    "firstname": "Henok",
+    "lastname": "Solomon",
+    "email": "HenokSolomon@gmail.com"
+  },
+  {
+    "firstname": "Belen",
+    "lastname": "Berihun",
+    "email": "BelenBerihun@gmail.com"
+  },
+  {
+    "firstname": "Alex",
+    "lastname": "Dabi",
+    "email": "AlexDabi@gmail.com"
+  },
+  {
+    "firstname": "Sisay",
+    "lastname": "Abel",
+    "email": "SisayAbel@gmail.com"
+  },
+  {
+    "firstname": "Tariku",
+    "lastname": "Mesfin",
+    "email": "TarikuMesfin@gmail.com"
+  },
+  {
+    "firstname": "Bebe",
+    "lastname": "Musa",
+    "email": "BebeMusa@gmail.com"
+  },
+  {
+    "firstname": "Kidus",
+    "lastname": "Balecha",
+    "email": "KidusBalecha@gmail.com"
+  },
+  {
+    "firstname": "Eyosias",
+    "lastname": "Kebede",
+    "email": "EyosiasKebede@gmail.com"
+  },
+  {
+    "firstname": "Yabsra",
+    "lastname": "Belete",
+    "email": "YabsraBelete@gmail.com"
+  },
+  {
+    "firstname": "Eyuel",
+    "lastname": "Nahom",
+    "email": "EyuelNahom@gmail.com"
+  }
+]
